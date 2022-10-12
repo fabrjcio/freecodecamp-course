@@ -3,5 +3,5 @@
 
 <div>
   <p> My profile: <p>
-  <a href="https://www.freecodecamp.org/fadetobash"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="My freecodecamp Profile">
+  <a href="https://www.freecodecamp.org/fadetobash"><img src="https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green" alt="My freecodecamp Profile" alt="_blank">
 </div>
