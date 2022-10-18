@@ -30,3 +30,12 @@ img {
 a {
     color: white;
 }
+
+a:hover {
+    color: grey;
+
+}
+
+a:visited {
+    color: yellow;
+}
