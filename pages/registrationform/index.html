@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com"> 
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap" rel="stylesheet">
+        
+    <title>Formulário de Registro</title>
+
+</head>
+
+<body>
+    <h1>Formulário de Registro</h1>
+    <p>Favor, preencha o formulário com as informações necessárias</p>
+
+    <form action="https://register-demo.freecodecamp.org">
+        <fieldset>
+            <!-- emmet used: label*4>input:text -->
+            <label for="primeiro-nome">Entre com seu primeiro nome: <input type="text" name="primeiro-nome"
+                    id="primeiro-nome" required /></label>
+            <label for="sobrenome">Entre com seu sobrenome: <input type="text" name="sobrenome" id="sobrenome"
+                    required /></label>
+            <label for="email">Entre com seu e-mail: <input type="text" name="email" id="email" required /></label>
+            <label for="nova-senha">Crie uma senha: <input type="password" name="nova-senha" id="nova-senha"
+                    pattern="[a-z0-5]{8,}" required /></label>
+
+        </fieldset>
+        <fieldset>
+
+            <label for="conta-pessoal"><input class="inline" type="radio" name="account-type" id="conta-pessoal" />Conta Pessoal</label>
+            <label for="conta-comercial"><input class="inline" type="radio" name="account-type" id="conta-comercial" />Conta Comercial</label>
+            <label for="termos-e-condicoes"><input class="inline" type="checkbox" name="termos-e-condicoes"
+                    id="termos-e-condicoes" />Eu aceito os <a
+                    href="https://www.freecodecamp.org/news/terms-of-service/">termos e condições</a></label>
+
+        </fieldset>
+        <fieldset>
+            <label for="imagem-perfil">Carregue uma imagem de perfil: <input type="file" name="imagem-perfil" id="imagem-perfil" name="imagem-perfil" /></label>
+            <label for=" idade">Qual sua idade? (anos): <input type="number" name="idade" id="idade" min="13" max="120" /></label>
+            <label for="referencia">Como ficou sabendo sobre nós?: </label>
+            <select name="referencia" id="referencia">
+                <option value="">(selecione uma opção)</option>
+                <option value="1">freeCodeCamp News</option>
+                <option value="2">freeCodeCamp Youtube Channel</option>
+                <option value="3">freeCodeCamp Fórum</option>
+                <option value="4">Outros</option>
+            </select>
+            <label for="bio">Descreva sua bio: <textarea name="bio" id="bio" cols="30" rows="3" placeholder="Eu gosto de codar na praia..." /></textarea></label>
+
+            </fieldset>
+            <input type="submit" value="Submit">
+            
+        </fieldset>
+    </form>
+
+</body>
+
+</html>
