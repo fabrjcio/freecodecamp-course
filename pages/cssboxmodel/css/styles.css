@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+  font-family: "Open Sans", "PT Sans", Calibri, Tahoma, sans-serif;
+}
+
+/*Styling content texts*/
+
+/*Styling boxes*/
+.canvas {
+  width: 500px;
+  height: 600px;
+  background-color: #4d0f00;
+}
+
+.frame {
+  border: 50px solid black;
+  width: 500px;
+  padding: 50px;
+  margin: 20px auto;
+
+}
