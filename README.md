@@ -3,3 +3,9 @@
 
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/fadetobash)
 - [Link to website](https://fadetobash.github.io/freecodecamp-lessons/)
+
+# List of lessons finished
+- [CatPhotoApp](https://fadetobash.github.io/freecodecamp-lessons/pages/catphotoapp/index.html)
+- [Cafe Menu](https://fadetobash.github.io/freecodecamp-lessons/pages/cafemenu/index.html)
+- [CSS Colors Markers](https://fadetobash.github.io/freecodecamp-lessons/pages/colormarkers/index.html)
+- [Registration Form](https://fadetobash.github.io/freecodecamp-lessons/pages/registrationform/index.html)
