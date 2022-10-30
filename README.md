@@ -9,3 +9,4 @@
 - [Cafe Menu](https://fadetobash.github.io/freecodecamp-lessons/pages/cafemenu/index.html)
 - [CSS Colors Markers](https://fadetobash.github.io/freecodecamp-lessons/pages/colormarkers/index.html)
 - [Registration Form](https://fadetobash.github.io/freecodecamp-lessons/pages/registrationform/index.html)
+- [Rothko Painting](https://fadetobash.github.io/freecodecamp-lessons/pages/rothkopainting/index.html)
