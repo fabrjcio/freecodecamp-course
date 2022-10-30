@@ -2,7 +2,7 @@
 #### Hello there, this is a simple website containing all the lessons published, that i've been mading in freecodecamp. Some of them, i made some changes to training code. 
 
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/fadetobash)
-- [Link to website](https://fadetobash.github.io/freecodecamp-lessons/)
+- [Link to website](https://fadetobash.github.io/freecodecamp-course/)
 
 # List of lessons finished
 - [CatPhotoApp](https://fadetobash.github.io/freecodecamp-lessons/pages/catphotoapp/index.html)
