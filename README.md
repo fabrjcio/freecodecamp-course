@@ -1,12 +1,6 @@
 ![freecodecamp](https://raw.githubusercontent.com/fadetobash/freecodecamp-lessons/main/images/freecode.webp)
-#### Hello there, this is a simple website containing all the lessons published, that i've been mading in freecodecamp. Some of them, i made some changes to training code. 
+#### Hi! 👋 This is a simple website published in github containing all the courses offered in [freeCodeCamp.org](https://www.freecodecamp.org/), made by me, for study purpose. Some codes i made some experimental changes! Feel free to suggest/help me.  
+[![Contact me Telegram](https://img.shields.io/badge/Contact%20me-Telegram-blue.svg)](https://t.me/fabrjcio)
 
+- [Link to list website](https://fadetobash.github.io/freecodecamp-course/)
 - [My freeCodeCamp Profile](https://www.freecodecamp.org/fadetobash)
-- [Link to website](https://fadetobash.github.io/freecodecamp-course/)
-
-# List of lessons finished
-- [CatPhotoApp](https://fadetobash.github.io/freecodecamp-lessons/pages/catphotoapp/index.html)
-- [Cafe Menu](https://fadetobash.github.io/freecodecamp-lessons/pages/cafemenu/index.html)
-- [CSS Colors Markers](https://fadetobash.github.io/freecodecamp-lessons/pages/colormarkers/index.html)
-- [Registration Form](https://fadetobash.github.io/freecodecamp-lessons/pages/registrationform/index.html)
-- [Rothko Painting](https://fadetobash.github.io/freecodecamp-lessons/pages/rothkopainting/index.html)
